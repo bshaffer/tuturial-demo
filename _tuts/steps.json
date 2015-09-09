@@ -14,7 +14,22 @@
             "id": "step-2",
             "name": "step 2",
             "description": null
+        },
+        {
+            "id": "step-3",
+            "name": "step 3",
+            "description": null
+        },
+        {
+            "id": "step-4",
+            "name": "step 4",
+            "description": null
+        },
+        {
+            "id": "step-5",
+            "name": "step 5",
+            "description": null
         }
     ],
-    "sha": "c32358bdeacfb05f518c87c2aca00963914d4858"
+    "sha": "08bae6d9cc97d42ab01bc7618245e0b79a3358bb"
 }
