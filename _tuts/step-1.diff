@@ -1,9 +1,9 @@
 diff --git a/README b/README
-index 4e03ced..dff393e 100644
+index 8d1a92b..e39314d 100644
 --- a/README
 +++ b/README
 @@ -1,2 +1,4 @@
- Start
+ Start (with change)
  =====
 +
 +Step 1
