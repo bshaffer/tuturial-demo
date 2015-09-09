@@ -9,7 +9,12 @@
             "id": "step-1",
             "name": "step 1",
             "description": null
+        },
+        {
+            "id": "step-2",
+            "name": "step 2",
+            "description": null
         }
     ],
-    "sha": "7553dfae6f423156abeb39caae4649fd4e2b582e"
+    "sha": "c32358bdeacfb05f518c87c2aca00963914d4858"
 }
