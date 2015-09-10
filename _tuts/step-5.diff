@@ -1,9 +1,9 @@
 diff --git a/README b/README
-index 1c52373..f4783fd 100644
+index 8830bcf..0f3fc49 100644
 --- a/README
 +++ b/README
 @@ -5,3 +5,4 @@ Step 1
  Step 2
  Step 3
- Step 4
+ Step 4a
 +Step 5
